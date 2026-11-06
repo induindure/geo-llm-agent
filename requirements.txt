@@ -1,0 +1,12 @@
+geopandas
+shapely
+pyproj
+folium
+matplotlib
+pandas
+requests
+geopy
+python-dotenv
+jupyter
+ipykernel
+streamlit
